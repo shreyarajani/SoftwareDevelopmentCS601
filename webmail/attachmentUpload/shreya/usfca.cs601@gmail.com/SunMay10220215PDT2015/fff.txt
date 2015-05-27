@@ -1,0 +1,34 @@
+SQUARE:
+Elevator Algorithm - 
+	state machine(states and transitions)
+
+Show intermediate solutions
+Talk
+Ask how you did
+
+DELPHIX: Jordan Place
+EVALUATE TRAITS
+Code
+Design (an answer to a problem)
+Diagnostics (debugging)
+Domain Expertise
+Communication/Culture Fit  (have comments that don’t suck!)
+
+6 commandments of interviewing
+1. Prepare to live up to your resume
+2. Know at least know 1 programming language
+3. Figure out what the interviewer wants
+4. Start questions with naive solutions
+5. Work with the interviewer. Criticize your responses with them
+6. Never BS
+
+Hash Tablei checked i dont have :(
+
+Tasks: How to code, refine, test, runtime of the algorithm(define the inputs)
+
+VMware: Charles Monnett, Matt Suiche
+Practice white board coding
+Ask about the interview process (white board, coding…)
+
+What does 0xCC mean in assembly?
+Whats the ancestor of the sysenter opcode in windows?

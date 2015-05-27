@@ -1,0 +1,34 @@
+scp -r webmail root@104.131.145.239:/opt
+
+DigitalOcean
+===============
+Login - $ssh root@104.131.145.239
+====================
+Droplet Name: webmail.shreyarajani.com
+IP/Hostname: 104.131.145.239
+Username: root
+Password: 99shreya99
+
++++++++++++++++++++
+https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
+++++++++++++++++++++
+
+Your identification has been saved in /root/.ssh/id_rsa.
+Your public key has been saved in /root/.ssh/id_rsa.pub.
+The key fingerprint is:
+cc:9f:57:b1:a2:48:cd:35:fc:be:f8:2a:ab:77:c5:ad root@webmail.shreyarajani.com
+The key's randomart image is:
++--[ RSA 2048]----+
+|                 |
+|           .     |
+|            + .  |
+|       o o . o o |
+|        S o ..+. |
+|       . o o +o .|
+|        . + .... |
+|          o...E. |
+|        .o.+ooo  |
++-----------------+
+
+public ssh key:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCXqSBT1rbtlp83HEEcBZT9C/l3JdlK80D+Da2PIWxLhADcb8OXMrqbggaNiATAHQMd5+y0S0K6yGa220RkmiV/CEP+aiYN1DrcR1Qrp9jiwJ6EP6wlQLSxSuk1XKomW++v21BVnjq5BQ0nbv0/Qtw6ssRnqxpfpmoiPEJD4i20V6xgsuIHdDfTldTNCQm1KH1uOlJoVQs8puUV13r70jcB0Rt1IHF4kOXFC+Du7rwb4fvPIOU06Zzy3vb84WcZltNjk4TOsFr3R8BvR1aTyxewLXeVWjYnzLRiIJuvT7o8vp5MNjcNqHi0ZotT/Zkju0gT/zWcNHe6O7Uh90+mTU1T root@webmail.shreyarajani.com

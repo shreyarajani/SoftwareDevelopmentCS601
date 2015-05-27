@@ -1,0 +1,34 @@
+ssh ssrajani2@stargate.cs.usfca.edu
+
+//just to ssh into a lab machine
+rusers -a
+ssh testcomputer
+
+
+cd /home/web
+cat > index.html
+//
+//
+chmod -R go=rX * //to publish on the website
+
+
+———————
+scp -r Ceevee10 ssrajani2@stargate.cs.usfca.edu:/home/web/ssrajani2
+ssh ssrajani2@stargate.cs.usfca.edu
+
+
+ssrajani2@hrn23530:~$ cd /home/web/ssrajani2
+ssrajani2@hrn23530:/home/web/ssrajani2$ mv Ceevee10/* .
+ssrajani2@hrn23530:/home/web/ssrajani2$ ls
+Ceevee10  demo.html    images  index.html  readme copy.txt
+css	  favicon.png  inc     js	   readme.txt
+ssrajani2@hrn23530:/home/web/ssrajani2$ ls Ceevee10/
+ssrajani2@hrn23530:/home/web/ssrajani2$ rm Ceevee10/
+rm: cannot remove 'Ceevee10/': Is a directory
+ssrajani2@hrn23530:/home/web/ssrajani2$ rm -r Ceevee10/
+ssrajani2@hrn23530:/home/web/ssrajani2$ ls
+css	   favicon.png	inc	    js		     readme.txt
+demo.html  images	index.html  readme copy.txt
+
+
+
