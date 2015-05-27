@@ -1,0 +1,19 @@
+[02/15/15 20:41:44 <module> ./bild.py:14 bilder.py:123] platform=darwin
+[02/15/15 20:41:44 <module> ./bild.py:14 bilder.py:124] jdk={'1.6': '/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home', '1.7': '/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home', '1.8': '/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home'}
+[02/15/15 20:41:44] require init
+[02/15/15 20:41:44 require ./bild.py:34 bilder.py:421] require init
+[02/15/15 20:41:44] build all
+[02/15/15 20:41:44 require ./bild.py:34 bilder.py:429] build all
+[02/15/15 20:41:44] require mkjar
+[02/15/15 20:41:44 require ./bild.py:29 bilder.py:421] require mkjar
+[02/15/15 20:41:44] require compile
+[02/15/15 20:41:44 require ./bild.py:25 bilder.py:421] require compile
+[02/15/15 20:41:44] require init
+[02/15/15 20:41:44 require ./bild.py:20 bilder.py:421] require init
+[02/15/15 20:41:44] build mkjar
+[02/15/15 20:41:44 require ./bild.py:25 bilder.py:429] build mkjar
+[02/15/15 20:41:50] build test
+[02/15/15 20:41:50 require ./bild.py:29 bilder.py:429] build test
+[02/15/15 20:41:50 junit_runner ./bild.py:31 bilder.py:631] ############# UNIT TESTS ######################
+[02/15/15 20:41:50 junit_runner ./bild.py:31 bilder.py:636] java -cp lib/graph-tests.jar:dist/graph.jar:/tmp/junit-4.10.jar::/Users/shreyarajani/.bild/jars/hamcrest-core-1.3.jar:/Users/shreyarajani/.bild/jars/junit-4.11.jar:/Users/shreyarajani/.bild/jars/bild-junit.jar org.bild.JUnitLauncher cs601.graph.TestGraph
+[02/15/15 20:41:51 junit_runner ./bild.py:31 bilder.py:646] cs601.graph.TestGraph: 6 tests, 0 failures
